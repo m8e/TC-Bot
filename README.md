@@ -1,3 +1,5 @@
+also see:  https://towardsdatascience.com/training-a-goal-oriented-chatbot-with-deep-reinforcement-learning-part-i-introduction-and-dce3af21d383
+
 # End-to-End Task-Completion Neural Dialogue Systems
 *An implementation of the  
 [End-to-End Task-Completion Neural Dialogue Systems](http://arxiv.org/abs/1703.01008) and
